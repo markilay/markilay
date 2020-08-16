@@ -1,18 +1,19 @@
 
 <h1 align="center">Hey there 👋, I'm Mark</h1>
-<h3 align="center"></h3>
+<h3 align="center">A passionate Frontend Developer</h3>
   
   <p align="center"> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2Fprogrammer-humor-the-hilarious-code-comments-ever-db26cf58339c&psig=AOvVaw1V_C3B_uQ4jbUWCmQOx8tq&ust=1597676520325000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiHrO3-n-sCFQAAAAAdAAAAABAP" alt="markpometun" />
+  <img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" alt="markpometun" />
  </p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=markilay" alt="markilay" />
 
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20" alt='javascript'/>
-<img src="https://img.icons8.com/color/48/000000/html5.png" width="20" height="20" alt='html'/>
-<img src="https://img.icons8.com/fluent/48/000000/github.png" width="20" height="20" alt='github'/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="20" height="20" alt='html'/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="20" height="20" alt='css'/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="20" height="20" alt='bootstrap'/>
+<img src="https://img.icons8.com/fluent/48/000000/github.png" width="20" height="20" alt='github'/>
+
 
 
 - 💻 All of my projects are available  [here](https://github.com/markilay?tab=repositories)
