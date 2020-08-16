@@ -21,8 +21,8 @@
 - 🔧 Currently I am working as a freelancer while developing my code
 
 - 📫 How to reach me **mareklayman@gmail.com** 
-OR
-- 💬 Ask me in <a href="https://www.telegram.com/in/pomtn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://www.telegram.com/in/pomtn/" height="20" width="20" /></a>
+
+- 💬 Ask me in <a href="https://www.telegram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://www.telegram.com/" height="20" width="20" /></a>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=markilay&show_icons=true" alt="markilay" />
