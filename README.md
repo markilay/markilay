@@ -5,7 +5,7 @@
   
  
  <p align="center"> 
-  <img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" alt="markpometun" />
+  <img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" alt="markpometun" width="200" height="200"/>
  </p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=markilay" alt="markilay" />
