@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **mareklayman@gmail.com** 
 
-- 💬 Ask me in <a href="https://www.telegram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://www.telegram.com/" height="20" width="20" /></a>
+- 💬 Ask me in <a href="https://web.telegram.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://web.telegram.org/" height="20" width="20" /></a> **@pomtn**
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=markilay&show_icons=true" alt="markilay" />
