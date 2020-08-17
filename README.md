@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there 👋, I'm Mark</h1>
-<h3 align="center">A passionate Web Developer <br>longing for great code and drinking coffee in the meantime</h3>
+<h3 align="center">A passionate Web Developer <br>longing for the great code and drinking coffee in the meantime</h3>
   
  
  <p align="center"> 
@@ -20,7 +20,7 @@
 
 - 💻 All of my projects are available  [here](https://github.com/markilay?tab=repositories)
 
-- 🔧 Currently I am working as a freelancer while developing my code
+- 🔧 Currently I am working as a freelancer while developing my code ⚙️
 
 - 📫 How to reach me **mareklayman@gmail.com** 
 
