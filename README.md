@@ -20,7 +20,7 @@
 
 - 💻 All of my projects are available  [here](https://github.com/markilay?tab=repositories)
 
-- 🔧 Currently I am working as a freelancer while developing my code ⚙️
+- 🔧 Currently I am working as a freelancer while developing my code skills ⚙️
 
 - 📫 How to reach me **mareklayman@gmail.com** 
 
