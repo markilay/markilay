@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there 👋, I'm Mark</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Web Developer <br>longing for great code and drinking coffee in the meantime</h3>
   
  
  <p align="center"> 
