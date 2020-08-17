@@ -26,9 +26,7 @@
 
 - 💬 Ask me in <a href="https://web.telegram.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://web.telegram.org/" height="20" width="20" /></a> **@pomtn**
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=markilay&show_icons=true" alt="markilay" />
- </p>
+
  
  <p align="center">
 <a href="https://www.linkedin.com/in/mark-pometun/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mark-pometun/" height="20" width="20" /></a>
