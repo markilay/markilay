@@ -11,6 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=markilay" alt="markilay" />
 
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20" alt='javascript'/>
+<img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="20" height="20" alt='react'/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20" height="20" alt='html'/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="20" height="20" alt='css'/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="20" height="20" alt='bootstrap'/>
