@@ -1,12 +1,4 @@
 
-
-<h1 align="center">Hey there 👋, I'm Mark</h1>
-<h3 align="center">A passionate Web Developer <br>longing for the great code and drinking coffee in the meantime</h3>
-  
- 
- <p align="center"> 
-  <img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" alt="markpometun" width="400" height="300"/>
- </p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=markilay" alt="markilay" />
 
